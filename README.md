@@ -51,7 +51,8 @@
 
 ##### 其他平台
 1.  立创开源：https://oshwhub.com/fj956391150/esp32-jia-re-tai
-2.  熵 2023-4-29
+2.  Gitee开源：https://gitee.com/arduino2021/esp32-heating-table.git
+3.  熵 2023-4-29
 
 ##### 实物展示
 ![输入图片说明](img/A.jpg)
